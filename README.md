@@ -1,2 +1,6 @@
 # Aprendendo
-Reposiótio para aprender github
+Repositório para aprender github
+
+Testando as modificacoes
+
+Vinaum8 readme 1.0
